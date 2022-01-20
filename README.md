@@ -6,7 +6,7 @@
 <ul>
   <li><a href="https://github.com/dalton704/Data-Science-Projects/blob/main/Data%20Exploring/Univariate%20and%20Multivariate%20Analysis.ipynb">Univariate and Bivariate Analysis</li>
   <li><a href="https://github.com/dalton704/Data-Science-Projects/blob/main/Insurance%20Linear%20Regression/Insurance%20Linear%20Regression.ipynb">Linear Regression</li>
-  <li><a href"https://github.com/dalton704/Data-Science-Projects/blob/main/RStudio/Shiny/Iris/app.R">Iris</li>
+  <li><a href="https://github.com/dalton704/Data-Science-Projects/blob/main/RStudio/Shiny/Iris/app.R">Iris</li>
 </ul>
 <br>
 <h2>Univariate and Bivariate Analysis</h2>
